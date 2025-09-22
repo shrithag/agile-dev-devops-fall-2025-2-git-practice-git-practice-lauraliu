@@ -17,3 +17,4 @@ The takeaway for me is that **test data doesn’t have to be a bottleneck anymor
 
 *Comments:*  
 Please feel free to fork this repository and let you know what you think!
+Shritha: I like how this article shows that AI can make testing easier and faster. It makes sense that better test data would help find problems earlier.
